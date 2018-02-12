@@ -1,3 +1,0 @@
-[console_scripts]
-fb = fbpy.__main__:main
-
