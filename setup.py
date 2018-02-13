@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='pyfb',
+    name='fbpy',
 
     version='0.1',
 
