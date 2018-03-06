@@ -24,10 +24,10 @@ setup(
         },
 
     install_requires=[
-    'dataset == 1.0.5',
-    'facepy == 1.0.9',
-    'requests == 2.18.1',
-    'retrying == 1.3.3'
+    'dataset >= 1.0.5',
+    'facepy >= 1.0.9',
+    'requests >= 2.18.1',
+    'retrying >= 1.3.3'
     ]
 
 )
